@@ -1,0 +1,24 @@
+How computer manufacturer is facing issues in terms of their sales and then how data analyst define a problem
+data discovery,data cleaning,data merging.
+
+end product - 
+you can track revenue number and sales year over year Atliq hardware is a company which supplies computer hardware and
+peripherals to surge stores nomad stores excel stores.
+electircal stores
+
+Bhavin patel -  sales director
+
+he is facing problem becasue the sales going down so he told his reginal sales manager to give the sales sata
+but the sales manager give 69 excel sheets with random data so there is big problem for him 
+
+AIIMS grid  -  it is a project management tool
+it has 4 componets
+1.porpose
+2.stakeholder
+3.End result
+4.success criteria
+
+remove -ve amount
+convert usd to INR and add a column
+ploting graphs
+
